@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    Chooser chooser("asdas");
+    Chooser chooser;
     chooser.start();
 }
